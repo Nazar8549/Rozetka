@@ -1,0 +1,27 @@
+h1, P {
+    text-align: center;
+    font-family: cursive;
+}
+h1 img {
+    width: 150px;
+    height: 150px;
+}
+footer p {
+    background-color: green;   
+}
+nav {
+    background-color: gray;
+    border-radius: 1px;
+    font-size: medium;
+    text-align: center; 
+}
+main p, h2, img {
+    text-align: center;
+    font-family: Courier New
+}
+footer {
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
