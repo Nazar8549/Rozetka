@@ -12,18 +12,25 @@ footer p {
 }
 nav {
     background-color: gray;
-    border-radius: 1px;
+    border-radius: 15px;
     font-size: medium;
     text-align: center; 
 }
 main p, h2, img {
     text-align: center;
     font-family: Courier New;
-    background-color: darkcyan;   
+    background-color: darkgreen;   
 }
 footer {
     font-size: 20px;
 }
 a {
     text-decoration: none;
+}
+nav a {
+    margin: 20px;
+    padding: 15px;
+}
+.icon {
+    border: 2px solid black;
 }
